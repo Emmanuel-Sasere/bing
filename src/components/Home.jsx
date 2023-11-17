@@ -4,7 +4,8 @@ import HomeText from './HomeText'
 import Line from './Line'
 import Homepage2 from './Homepage2'
 import Hometext2 from './Hometext2'
-import Button from './button'
+import Button from './Button';
+
 
 
 
