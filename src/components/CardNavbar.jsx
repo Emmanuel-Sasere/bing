@@ -12,7 +12,7 @@ const CardNavbar = () => {
 
   return (
     <div className='w-screen'>
-      <nav className='pl-10 pr-10 pt-3 pb-3 sticky shadow-md flex items-center justify-start'>
+      <nav className='pl-8 pr-8 pt-2 pb-2 sticky shadow-md flex items-center justify-start'>
         <Link to={isHomePageOpen ? '/' : '/Closed'}>
           <img className='w-4 mr-5' src={Logo} alt="Logo" onClick={handleLogoClicked} />
         </Link>
