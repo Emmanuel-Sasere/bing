@@ -10,10 +10,13 @@ import Button from './button'
 
 
 
+
 const Home = () => {
   return (
-    <div className='wraper'>
+    <div  className='card'>
+
     
+   
     <Homepage1 />
     <HomeText />
     <Line />
